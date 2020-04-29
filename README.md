@@ -1,5 +1,4 @@
-LALR parser
-===========
+
 
     An LALR parser or Look-Ahead LR parser is a simplified version of a Canonical LR parser
 
